@@ -3,4 +3,4 @@ Projeto da DIO: Criação de uma função que lê os dados de uma API online, pr
 
 Projeto retirado de: https://colab.research.google.com/drive/1SF_Q3AybFPozCcoFBptDSFbMk-6IVGF-?usp=sharing
 
-O parte do arquivo onde tem o projeto que fiz usando alguns conhecimentos de python ficou na linha 277
+A parte do arquivo onde tem o projeto que fiz usando alguns conhecimentos de python ficou na linha 277
